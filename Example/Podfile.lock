@@ -1,0 +1,16 @@
+PODS:
+  - TShareView (0.1.0)
+
+DEPENDENCIES:
+  - TShareView (from `../`)
+
+EXTERNAL SOURCES:
+  TShareView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TShareView: bf1191aab20ff40049472b227600e4dd5423d569
+
+PODFILE CHECKSUM: f524a300b1e1b6cfdee6f6235ad6c991759af371
+
+COCOAPODS: 1.5.3

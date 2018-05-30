@@ -1,0 +1,22 @@
+{
+  "name": "TShareView",
+  "version": "0.1.0",
+  "summary": "A short description of TShareView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/methodname@qq.com/TShareView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "methodname@qq.com": "methodname@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/methodname@qq.com/TShareView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TShareView/Classes/**/*"
+}
